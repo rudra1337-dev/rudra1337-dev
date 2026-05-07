@@ -10,8 +10,10 @@ on:
     branches:
       - main
 
-jobs:
+permissions:
+  contents: write
 
+jobs:
   metrics-base:
     runs-on: ubuntu-latest
 
@@ -135,6 +137,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
@@ -148,6 +153,5 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
