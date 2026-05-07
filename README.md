@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rudra%20Narayan%20Maharana&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20|%20Full%20Stack%20Developer%20|%20Open%20Source&descAlignY=58&descSize=18" width="100%" />
@@ -87,7 +86,7 @@ const rudra = {
   philosophy:
     "while(alive) { learn(); build(); improve(); repeat(); }"
 };
-````
+```
 
 ---
 
@@ -111,10 +110,10 @@ const rudra = {
 
 * ✅ HTML & CSS
 * ✅ JavaScript
-* 🔄 React.js
-* 🔄 Node.js
-* 🔄 Express.js
-* 🔄 MongoDB
+* ✅ React.js
+* ✅ Node.js
+* ✅ Express.js
+* ✅ MongoDB
 
 </td>
 
@@ -124,9 +123,9 @@ const rudra = {
 
 * ✅ Arrays & Strings
 * ✅ Hashing
-* 🔄 Linked List
-* 🔄 Stack & Queue
-* 📅 Trees & Graphs
+* ✅ Linked List
+* ✅ Stack & Queue
+* 🔄 Trees & Graphs
 * 📅 Dynamic Programming
 
 </td>
@@ -138,9 +137,9 @@ const rudra = {
 * ✅ OOP Concepts
 * ✅ Encapsulation
 * ✅ Inheritance
-* 🔄 Polymorphism
-* 📅 SOLID Principles
-* 📅 Design Patterns
+* ✅ Polymorphism
+* ✅ SOLID Principles
+* 🔄 Design Patterns
 
 </td>
 </tr>
@@ -206,7 +205,7 @@ const rudra = {
 
 | Status         | Project                      | Details               |
 | -------------- | ---------------------------- | --------------------- |
-| ✅ Merged       | openMF/mifos-x-web-app-react | PR #104               |
+| ✅ Submited    | openMF/mifos-x-web-app-react | PR #104               |
 | 🚀 Contributor | Open Source                  | Growing Daily         |
 | 🌟 Preparing   | GSSoC 2026                   | Contributor Applicant |
 
